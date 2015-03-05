@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BM YourGuide</string>
+    <string name="title_section1">Recommendation</string>
+    <string name="title_section2">Current Artifact</string>
+    <string name="title_section3">User</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
